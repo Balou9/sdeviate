@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Balou9/sdeviate#readme",
   "devDependencies": {
-    "tape": "^4.9.0"
+    "tape": "^4.9.0",
+    "varianc": "0.0.0"
   }
 }

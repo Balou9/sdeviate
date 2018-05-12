@@ -1,8 +1,7 @@
-var varianC = require('./varianc')
+var varianC = require('varianc')
 
 function sdeviate (arr) {
-  var sd = Math.sqrt(varianC(arr))
-  return sd
+  return Math.sqrt(varianC(arr))
 }
 
 module.exports = sdeviate
